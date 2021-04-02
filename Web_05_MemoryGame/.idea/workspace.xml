@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cf11d99-7069-41c6-87bd-6b0e29a9109f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WCOD11eUkgt5tM3VpUE7rLRtg3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/Versions/Version_7/web/sounds" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Venkatesh-Workspace\Apps\Dart\Applications\Web_05_MemoryGame\web\Versions\Version_7\web\sounds" />
+      <recent name="D:\Venkatesh-Workspace\Apps\Dart\Applications\Web_05_MemoryGame\web\Versions\Version_7\web" />
+      <recent name="D:\Venkatesh-Workspace\Apps\Dart\Applications\Web_05_MemoryGame\web\Versions\Version_7" />
+      <recent name="D:\Venkatesh-Workspace\Apps\Dart\Applications\Web_05_MemoryGame\web\Versions\Version_6" />
+      <recent name="D:\Venkatesh-Workspace\Apps\Dart\Applications\Web_05_MemoryGame\web\Versions\Version_5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Venkatesh-Workspace\Apps\Dart\Applications\Web_05_MemoryGame\web\Versions\Version_1\web" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cf11d99-7069-41c6-87bd-6b0e29a9109f" name="Default Changelist" comment="" />
+      <created>1578649986216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578649986216</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578898034627">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1578898034627" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1578660508977">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578660508977" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1578891020301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578891020301" />
+    <state x="65" y="90" key="new project wizard" timestamp="1578899825510">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="90" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1578899825510" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1578891065223">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1578891065222" />
+  </component>
+</project>

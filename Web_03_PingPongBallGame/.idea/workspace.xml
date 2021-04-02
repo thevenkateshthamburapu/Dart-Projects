@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7666822-cfde-4411-90d3-fb3600011ba1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W6H5h3KxttrjjcN61scCOzD6Nl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/PingPong" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Venkatesh-Workspace\Apps\Dart\Applications\Web_03_PingPongBallGame\web\PingPong" />
+      <recent name="D:\Venkatesh-Workspace\Apps\Dart\Applications\Web_03_PingPongBallGame\web\Spirals\ping_pong_s11" />
+      <recent name="D:\Venkatesh-Workspace\Apps\Dart\Applications\Web_03_PingPongBallGame\web\Spirals\ping_pong_s10" />
+      <recent name="D:\Venkatesh-Workspace\Apps\Dart\Applications\Web_03_PingPongBallGame\web\Spirals\ping_pong_s09" />
+      <recent name="D:\Venkatesh-Workspace\Apps\Dart\Applications\Web_03_PingPongBallGame\web\Spirals\ping_pong_s08" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Venkatesh-Workspace\Apps\Dart\Applications\Web_03_PingPongBallGame\web\PingPong" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7666822-cfde-4411-90d3-fb3600011ba1" name="Default Changelist" comment="" />
+      <created>1578462942852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578462942852</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="434" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578551330261">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1578551330261" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1578468847847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578468847847" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1578558845460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578558845460" />
+  </component>
+</project>
